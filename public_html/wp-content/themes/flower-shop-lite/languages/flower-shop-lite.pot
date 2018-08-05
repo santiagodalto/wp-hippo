@@ -1,0 +1,398 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Flower Shop Lite\n"
+"POT-Creation-Date: 2017-12-05 15:26+0530\n"
+"PO-Revision-Date: 2017-12-05 15:19+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn.....Dont worry... it happens to the "
+"best of us."
+msgstr ""
+
+#: archive.php:32 front-page.php:152 front-page.php:190
+msgid "Back"
+msgstr ""
+
+#: archive.php:33 front-page.php:153 front-page.php:191
+msgid "Next"
+msgstr ""
+
+#: archive.php:34
+msgid "Posts navigation"
+msgstr ""
+
+#: category.php:19
+msgid "Category: "
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:32
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:52 comments.php:72
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:53 comments.php:73
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:54 comments.php:74
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr ""
+
+#: content-single.php:25 image.php:59 page.php:26
+msgid "Pages:"
+msgstr ""
+
+#: content-single.php:29 page.php:30
+msgid "Page"
+msgstr ""
+
+#: content.php:19
+msgid ", "
+msgstr ""
+
+#: content.php:27
+msgid "Read More &rarr;"
+msgstr ""
+
+#: content.php:31
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: customize-pro/example-1/class-customize.php:76
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: customize-pro/example-1/class-customize.php:77
+msgid "Upgrade Now"
+msgstr ""
+
+#: front-page.php:68
+msgid "Shop Now!"
+msgstr ""
+
+#: functions.php:42
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:56
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:57
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:66
+msgid "Header Right Widget"
+msgstr ""
+
+#: functions.php:67
+msgid "Appears on top of the header"
+msgstr ""
+
+#: functions.php:86
+msgctxt "Roboto Condensed:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:93
+msgctxt "Scada:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:94
+msgctxt "Lato:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:95
+msgctxt "Roboto:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:96
+msgctxt "Oleo Script:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:230 header.php:102
+msgid "View your shopping cart"
+msgstr ""
+
+#: header.php:112
+msgid "Menu"
+msgstr ""
+
+#: image.php:33 image.php:65
+msgid "Edit"
+msgstr ""
+
+#: inc/about-themes.php:5
+msgid "About Theme"
+msgstr ""
+
+#: inc/about-themes.php:16
+msgid "Theme Information"
+msgstr ""
+
+#. Description of the plugin/theme
+#: inc/about-themes.php:18
+msgid "Description Goes Here"
+msgstr ""
+
+#: inc/about-themes.php:24
+msgid "Live Demo"
+msgstr ""
+
+#: inc/about-themes.php:25
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/about-themes.php:26
+msgid "Documentation"
+msgstr ""
+
+#: inc/customizer.php:79
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:80
+msgid "More color options in PRO Version"
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:91
+msgid ""
+"Featured Image Size Should be ( 1420 X 549 ) More slider settings available "
+"in PRO Version"
+msgstr ""
+
+#: inc/customizer.php:104
+msgid "Select page for slide one:"
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Select page for slide two:"
+msgstr ""
+
+#: inc/customizer.php:128
+msgid "Select page for slide three:"
+msgstr ""
+
+#: inc/customizer.php:140
+msgid "Uncheck To Show Slider"
+msgstr ""
+
+#: inc/customizer.php:146
+msgid "Homepage Three Boxes Section"
+msgstr ""
+
+#: inc/customizer.php:147
+msgid "Select Pages from the dropdown for homepage four boxes section"
+msgstr ""
+
+#: inc/customizer.php:191 inc/customizer.php:221
+msgid "Uncheck To Show This Section"
+msgstr ""
+
+#: inc/customizer.php:197
+msgid "Home First Content Section"
+msgstr ""
+
+#: inc/customizer.php:198
+msgid "Select Pages from the dropdown for home first content section"
+msgstr ""
+
+#: inc/customizer.php:229
+msgid "Social Settings"
+msgstr ""
+
+#: inc/customizer.php:230
+msgid "More social icon available in PRO Version"
+msgstr ""
+
+#: inc/customizer.php:240
+msgid "Add facebook link here"
+msgstr ""
+
+#: inc/customizer.php:250
+msgid "Add twitter link here"
+msgstr ""
+
+#: inc/customizer.php:259
+msgid "Add google plus link here"
+msgstr ""
+
+#: inc/customizer.php:268
+msgid "Add linkedin link here"
+msgstr ""
+
+#: inc/customizer.php:274
+msgid "Footer Area"
+msgstr ""
+
+#: inc/customizer.php:295
+msgid "Add title for latest news feed"
+msgstr ""
+
+#: inc/customizer.php:306
+msgid "Add title for about us"
+msgstr ""
+
+#: inc/customizer.php:318
+msgid "About Description"
+msgstr ""
+
+#: inc/customizer.php:329
+msgid "Add title for footer contact info"
+msgstr ""
+
+#: inc/customizer.php:335
+msgid "Contact Details"
+msgstr ""
+
+#: inc/customizer.php:336
+msgid "Add you contact details here"
+msgstr ""
+
+#: inc/customizer.php:348
+msgid "Add contact address here"
+msgstr ""
+
+#: inc/customizer.php:357
+msgid "Add contact number here."
+msgstr ""
+
+#: inc/customizer.php:367
+msgid "Add you email here"
+msgstr ""
+
+#: inc/template-tags.php:33
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:37
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: inc/template-tags.php:38
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: inc/template-tags.php:70
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:93
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: %s: publish post started
+#: no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. translators: %s: search term
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:10
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:11
+msgid "Category"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Flower Shop Lite"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "#"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.sktthemes.net"
+msgstr ""
